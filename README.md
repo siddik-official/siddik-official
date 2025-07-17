@@ -38,7 +38,7 @@
 
 - 🔭 I’m a **Web Developer** with a love for crafting beautiful and scalable web apps.
 - 🌐 Currently diving deep into **DevOps**, **Firebase**, and **Cloud Deployments**.
-- 💼 Former **Project Lead Intern** at *GirlScript Foundation*.
+- 💼 **Intern** at *Munchies*.
 - 🧠 I believe in **"learning by building"** – break stuff, fix stuff, learn fast!
 - 🧩 I enjoy tech meetups, online hackathons & making fun projects with crazy ideas.
 - 💬 Life Motto: _"Explore 🔥 and Explode 💣 with knowledge"_
