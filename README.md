@@ -36,7 +36,7 @@
 
 ### 👨🏻‍💻 A Little About Me:
 
-- 🔭 I’m a **Web Developer** with a love for crafting beautiful and scalable web apps.
+- 🔭 I’m a **Web Developer** and **App Developer** with a love for crafting beautiful and scalable web apps.
 - 🌐 Currently diving deep into **DevOps**, **Firebase**, and **Cloud Deployments**.
 - 💼 **Intern** at *Munchies*.
 - 🧠 I believe in **"learning by building"** – break stuff, fix stuff, learn fast!
