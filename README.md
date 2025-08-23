@@ -85,6 +85,7 @@ Autonomous drone config/code with ESP32-S3 & STM32 Blue Pill.
 
 **[symptoseek_backend](https://github.com/siddik-official/symptoseek_backend)**  
 Backend for "symptoseek" project: AI chatbot recommends doctors.  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)  
 ⭐ Starred
 
