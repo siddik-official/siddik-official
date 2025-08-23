@@ -59,14 +59,17 @@
 ### 🌟 Recent Projects
 
 **[krishoker_ponno_backend](https://github.com/siddik-official/krishoker_ponno_backend)**  
-Mini e-commerce backend connecting local farmers and buyers.  
+***Krishoker Ponno*** connecting local farmers and buyers.  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)  
 ⭐ Starred
 
 **[api_testing_tool](https://github.com/siddik-official/api_testing_tool)**  
 A mini-Postman style API Endpoint testing tool.  
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  
 ⭐ Starred
+
 
 **[symptoseek-iot-device](https://github.com/siddik-official/symptoseek-iot-device)**  
 Fall detection & health monitoring IoT with ESP32-S3.  
@@ -86,6 +89,7 @@ Autonomous drone config/code with ESP32-S3 & STM32 Blue Pill.
 **[symptoseek_backend](https://github.com/siddik-official/symptoseek_backend)**  
 Backend for "symptoseek" project: AI chatbot recommends doctors.  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)  
 ⭐ Starred
 
