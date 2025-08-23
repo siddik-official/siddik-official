@@ -98,7 +98,7 @@ Backend for "symptoseek" project: AI chatbot recommends doctors.
 ### 🌐 Let’s Connect & Create
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-abu-bakar-siddik-037b17248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/msddik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/abubakarsid1999" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
   <a href="https://www.facebook.com/abubakar.sid2/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/_abu_bakar_siddik/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
