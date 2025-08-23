@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  👨‍💻 Fullstack Software Developer | 🚀 DevOps | Cloud | Flutter Enthusiast
+  👨‍💻 Software Developer | 🚀 DevOps | Cloud | Flutter Enthusiast
 </p>
 
 <div align="center">
