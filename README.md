@@ -58,7 +58,7 @@
 ---
 ### 🌟 Recent Projects
 
-**[krishoker_ponno_backend](https://github.com/siddik-official/krishoker_ponno_backend)**  
+**[krishoker_ponno](https://github.com/siddik-official/krishoker_ponno_backend)**  
 ***Krishoker Ponno*** connecting local farmers and buyers.  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)  
 ⭐ Starred
