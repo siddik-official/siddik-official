@@ -50,7 +50,7 @@
 
 - 🔭 Web & App developer passionate about crafting beautiful, scalable applications
 - 🌐 Exploring **DevOps**, **Supabase**, **Cloud Deployments**
-- 💼 **Intern** at *Munchies*
+- 💼 **Software Engineer** at *Stealth Intelligence*
 - 🧠 Believer in **"learning by building"** — break stuff, fix stuff, learn fast!
 - 🧩 Enjoy tech meetups, hackathons & turning ideas into fun projects
 - 💬 Life Motto: _"Explore 🔥 and Explode 💣 with knowledge"_
