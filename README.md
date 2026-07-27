@@ -46,7 +46,7 @@
 
 - 🔭 Web & app developer focused on building scalable, production-ready applications.
 - 🌐 Exploring **DevOps**, **Supabase**, **Cloud deployments**, and platform automation.
-- 💼 **Software Engineer** at *Stealth Intelligence*.
+- 💼 **Software Engineer** at *Cookspace Technologies Limited*.
 - 🧠 Big believer in **learning by building** — break stuff, fix stuff, repeat.
 - 💬 Life Motto: _"Explore 🔥 and Explode 💣 with knowledge."_
 
